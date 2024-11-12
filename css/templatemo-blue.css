@@ -12,6 +12,9 @@ html, body {
   overflow-x:hidden;
   position: relative;
   vertical-align: baseline;
+  background: url('images/blue-abstract-sharp-flows-4k-vn-1920x1080.jpg') no-repeat center center fixed;
+  background-size: cover	
+	
 }
 
 html {
